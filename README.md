@@ -12,31 +12,36 @@ I am Sharadwata Ganguli, a recent graduate from University of Michigan's Masters
 
 
 ## 🛠 Languages, tools and skills 
+<div align="center">
 ![image](https://user-images.githubusercontent.com/86696198/170815126-2b44ed7f-e8cf-4c22-8f7c-f362e8333a27.png)
 ![image](https://user-images.githubusercontent.com/86696198/170815130-d3289971-a1f0-49ae-b32c-9a493fe5ca1a.png)
 ![image](https://user-images.githubusercontent.com/86696198/170815138-df58b430-05c4-4006-93a3-98fa84613dd2.png)
-
+</div>
+<div align="center">
 ![image](https://user-images.githubusercontent.com/86696198/170815144-678de0ed-f5be-4dbd-81f0-66533554c439.png)
 ![image](https://user-images.githubusercontent.com/86696198/170815149-7c8a16e5-851e-46fe-9953-4e0307920195.png)
 ![image](https://user-images.githubusercontent.com/86696198/170815152-aed8ef9d-9e5e-4566-817c-7ff938417a07.png)
 ![image](https://user-images.githubusercontent.com/86696198/170815157-b0ced241-76fd-4c31-8483-0761c1de8f3d.png)
 ![image](https://user-images.githubusercontent.com/86696198/170815594-ac182a5b-03d2-41a7-bb2a-2621e08e3321.png)
-
-
+</div>
+<div align="center">
 ![image](https://user-images.githubusercontent.com/86696198/170815159-1b8b309e-0a92-41f0-809a-4fe99a5ab30c.png)
 ![image](https://user-images.githubusercontent.com/86696198/170815165-65bc25e6-b157-4c49-8196-b8864bd2a04b.png)
-
+</div>
+<div align="center">
 ![image](https://user-images.githubusercontent.com/86696198/170815499-d5a511e8-f30b-40aa-a93a-9efc5a1c7f0f.png)
 ![image](https://user-images.githubusercontent.com/86696198/170815510-191d5b1b-3915-4b26-b178-33bd78b0cf13.png)
-
+</div>
 
 
 ## ⚡ Fun Fact:
 * Am a proud Dad, Husband and Gamer! 
 
 ## 📫 How to reach me 
-<a href="https://in.linkedin.com/in/sharadwataganguli">![image](https://user-images.githubusercontent.com/86696198/170815000-922ec508-9a1d-499c-82e9-ac2eca1b6e7e.png)</a> <a href="mailto:sharadwata.ganguli@gmail.com">![image](https://user-images.githubusercontent.com/86696198/170815077-5cb6fb56-0d32-47eb-b3b9-6fd7a7cba5c9.png)</a>
-
+<div align="center">
+<a href="https://in.linkedin.com/in/sharadwataganguli">![image](https://user-images.githubusercontent.com/86696198/170815000-922ec508-9a1d-499c-82e9-ac2eca1b6e7e.png)</a> 
+<a href="mailto:sharadwata.ganguli@gmail.com">![image](https://user-images.githubusercontent.com/86696198/170815077-5cb6fb56-0d32-47eb-b3b9-6fd7a7cba5c9.png)</a>
+</div>
 <!--
 **s-ganguli/s-ganguli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
