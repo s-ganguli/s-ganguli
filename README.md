@@ -39,7 +39,7 @@ I am Sharadwata Ganguli, a recent graduate from University of Michigan's Masters
 
 ## 📫 How to reach me 
 <div align="center">
-<a href="[https://www.linkedin.com/in/ben-merrill](https://in.linkedin.com/in/sharadwataganguli)">
+<a href="https://in.linkedin.com/in/sharadwataganguli">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:sharadwata.ganguli@gmail.com">
