@@ -11,7 +11,7 @@ I am Sharadwata Ganguli, a recent graduate from University of Michigan's Masters
 * A Deep Learning Project --> <a href="https://github.com/s-ganguli/AI-Tennis-Ball-Bounce-Detection"> AI-Tennis-Ball-Bounce-Detection</a>
 
 
-## Languages, tools and skills 🛠
+## 🛠 Languages, tools and skills 
 ![image](https://user-images.githubusercontent.com/86696198/170815126-2b44ed7f-e8cf-4c22-8f7c-f362e8333a27.png)
 ![image](https://user-images.githubusercontent.com/86696198/170815130-d3289971-a1f0-49ae-b32c-9a493fe5ca1a.png)
 ![image](https://user-images.githubusercontent.com/86696198/170815138-df58b430-05c4-4006-93a3-98fa84613dd2.png)
@@ -31,10 +31,10 @@ I am Sharadwata Ganguli, a recent graduate from University of Michigan's Masters
 
 
 
-## Fun Fact:
+## ⚡ Fun Fact:
 * Am a proud Dad, Husband and Gamer! 
 
-## How to reach me 📫
+## 📫 How to reach me 
 <a href="https://in.linkedin.com/in/sharadwataganguli">![image](https://user-images.githubusercontent.com/86696198/170815000-922ec508-9a1d-499c-82e9-ac2eca1b6e7e.png)</a> <a href="mailto:sharadwata.ganguli@gmail.com">![image](https://user-images.githubusercontent.com/86696198/170815077-5cb6fb56-0d32-47eb-b3b9-6fd7a7cba5c9.png)</a>
 
 <!--
