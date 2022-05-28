@@ -20,6 +20,8 @@ I am Sharadwata Ganguli, a recent graduate from University of Michigan's Masters
 ![image](https://user-images.githubusercontent.com/86696198/170815149-7c8a16e5-851e-46fe-9953-4e0307920195.png)
 ![image](https://user-images.githubusercontent.com/86696198/170815152-aed8ef9d-9e5e-4566-817c-7ff938417a07.png)
 ![image](https://user-images.githubusercontent.com/86696198/170815157-b0ced241-76fd-4c31-8483-0761c1de8f3d.png)
+![image](https://user-images.githubusercontent.com/86696198/170815594-ac182a5b-03d2-41a7-bb2a-2621e08e3321.png)
+
 
 ![image](https://user-images.githubusercontent.com/86696198/170815159-1b8b309e-0a92-41f0-809a-4fe99a5ab30c.png)
 ![image](https://user-images.githubusercontent.com/86696198/170815165-65bc25e6-b157-4c49-8196-b8864bd2a04b.png)
