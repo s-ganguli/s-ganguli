@@ -25,6 +25,11 @@ I am Sharadwata Ganguli, a recent graduate from University of Michigan's Masters
 <img src='https://img.shields.io/badge/Apache%20Spark-4479A1?style=for-the-badge&logo=apache-spark&logoColor=white' alt='Spark' />
 </div>
 <div align="center">
+<img src='https://img.shields.io/badge/altair-F9AB00?style=for-the-badge&logo=altair&logoColor=white' alt='altair' />
+<img src="https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" />
+<img src="https://img.shields.io/badge/seaborn-orange?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn" />
+</div>
+<div align="center">
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
 </div>
