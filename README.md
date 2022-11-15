@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sharadwata Ganguli, a recent graduate from University of Michigan's Masters in Applied Data Science Program. I have	12 years of experience in using Quantitative Primary Market Research data to answer business/ marketing questions using a variety of data analysis, exploration and visualization techniques. I also have working experience of 10 years in Marketing Data Science applications like Driver Analysis, Segmentation, Pricing and communicating the findings and implications to senior stakeholders. Am also experienced in development and launch of Enterprise scale insights solutions.
+I am Sharadwata Ganguli, a graduate from University of Michigan's Masters in Applied Data Science Program. I have	12 years of experience in using Quantitative Primary Market Research data to answer business/ marketing questions using a variety of data analysis, exploration and visualization techniques. I also have working experience of 10 years in Marketing Data Science applications like Driver Analysis, Segmentation, Pricing and communicating the findings and implications to senior stakeholders. Am also experienced in development and launch of Enterprise scale insights solutions.
 
 🔭 Given my experience and knowedge I keep working on my Marketing Data Science skills as well as Unstructured Data skills.
 
